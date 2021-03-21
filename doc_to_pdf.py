@@ -47,7 +47,7 @@ def doc2docx(doc_file):
 # 批量转换
 def doc_to_pdf():
     # 文件位置
-    path = r'C:\泗小现代化学校(1)'
+    path = r'C:\小现代化(1)'
 
     file_list = get_filelist(path)
     # print(file_list)
